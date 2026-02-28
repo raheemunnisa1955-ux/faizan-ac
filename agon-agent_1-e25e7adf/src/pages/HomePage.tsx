@@ -542,7 +542,7 @@ export default function HomePage() {
                 rigor, and after-sale accountability.
               </p>
               <a
-                href="https://wa.me/919000000000"
+                href="https://wa.me/918106947294"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-3 px-6 py-3.5 rounded-xl text-sm font-semibold text-white transition-all hover:scale-105"
