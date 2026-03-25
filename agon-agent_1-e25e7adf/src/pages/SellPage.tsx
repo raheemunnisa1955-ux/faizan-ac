@@ -659,7 +659,7 @@ export default function SellPage() {
                       </label>
                       <input
                         type="tel"
-                        placeholder="+91 9000000000"
+                        placeholder="+91 81069 47294"
                         value={state.phone}
                         onChange={(e) => update('phone', e.target.value)}
                         className="w-full px-4 py-3 rounded-xl text-sm outline-none"

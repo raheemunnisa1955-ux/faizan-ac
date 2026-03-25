@@ -156,7 +156,7 @@ export default function LocationPage() {
               </p>
               <div className="space-y-4">
                 <a
-                  href="tel:+919000000000"
+                  href="tel:+91 81069 47294"
                   className="flex items-center gap-4 group"
                 >
                   <div
@@ -171,7 +171,7 @@ export default function LocationPage() {
                       className="text-sm font-semibold group-hover:text-blue-400 transition-colors"
                       style={{ color: '#e2e8f0', fontFamily: 'Inter, sans-serif' }}
                     >
-                      +91 90000 00000
+                      +9181069 47294
                     </p>
                   </div>
                 </a>
